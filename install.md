@@ -7,7 +7,7 @@
 
 
 ## Package install notes
-![notes](docs/Wrike_Salesforce_Integration_Manual.pdf.png)
+![notes](docs/Wrike_Salesforce_Integration_Manual.png)
 
 ## Docs
 - [Wrike for Salesforce](https://help.wrike.com/hc/en-us/articles/360040085934#UUID-7b2e65ee-9ed0-567c-5544-b6a888027550)
