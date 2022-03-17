@@ -11,3 +11,13 @@
 
 - Wrike Salesforce widget
     - [Wrike’s Salesforce Widget](https://help.wrike.com/hc/en-us/articles/1500005226922-Wrike-s-Salesforce-Widget)
+
+## Wrike ERD
+
+```
+sfdx mohanc:md:describe  -u  mohan.chinnappan.n_ea2@gmail.com  -s WrikeAccountSettings__c,Wrike_API__c,Wrike_Bindings__c,WrikeAccountSettings__ChangeEvent,Wrike_API__ChangeEvent,Wrike_Bindings__ChangeEvent -e wrike.svg > wrike-erd.csv
+
+```
+
+- ![wrike erd](./erd/wrike.svg)
+- [wrike erd csv](./erd/wrike-erd.csv)

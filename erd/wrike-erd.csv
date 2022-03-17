@@ -1,0 +1,96 @@
+"sobjectName","sobjectLabel","name","label","type","length","nillable","referenceTo","relationshipName","unique","updateable","inlineHelpText","picklistValues","externalId"
+"WrikeAccountSettings__c","Wrike Account Settings","Id","Record ID","id",18,false,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","IsDeleted","Deleted","boolean",0,false,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","Name","Name","string",80,true,"[]",,false,true,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","CurrencyIsoCode","Currency ISO Code","picklist",3,true,"[]",,false,true,,"[""U.S. Dollar""]",false
+"WrikeAccountSettings__c","Wrike Account Settings","SetupOwnerId","Location","reference",18,true,"[""Organization"",""Profile"",""User""]","SetupOwner",false,true,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","CreatedDate","Created Date","datetime",0,false,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","CreatedById","Created By ID","reference",18,false,"[""User""]","CreatedBy",false,false,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","LastModifiedDate","Last Modified Date","datetime",0,false,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","LastModifiedById","Last Modified By ID","reference",18,false,"[""User""]","LastModifiedBy",false,false,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","SystemModstamp","System Modstamp","datetime",0,false,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","OwnerId__c","OwnerId","string",80,true,"[]",,false,true,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","SalesforceFolderId__c","SalesforceFolderId","string",255,true,"[]",,false,true,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","WebHookKey__c","WebHookKey","string",80,true,"[]",,false,true,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","WrikeAccountId__c","WrikeAccountId","string",255,true,"[]",,false,true,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","WrikeClientId__c","WrikeClientId","string",255,true,"[]",,false,true,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","WrikeClientSecret__c","WrikeClientSecret","string",255,true,"[]",,false,true,,"[]",false
+"WrikeAccountSettings__c","Wrike Account Settings","WrikeServer__c","WrikeServer","url",255,true,"[]",,false,true,,"[]",false
+"sobjectName","sobjectLabel","name","label","type","length","nillable","referenceTo","relationshipName","unique","updateable","inlineHelpText","picklistValues","externalId"
+"Wrike_API__c","Wrike API","Id","Record ID","id",18,false,"[]",,false,false,,"[]",false
+"Wrike_API__c","Wrike API","IsDeleted","Deleted","boolean",0,false,"[]",,false,false,,"[]",false
+"Wrike_API__c","Wrike API","Name","Name","string",80,true,"[]",,false,true,,"[]",false
+"Wrike_API__c","Wrike API","CurrencyIsoCode","Currency ISO Code","picklist",3,true,"[]",,false,true,,"[""U.S. Dollar""]",false
+"Wrike_API__c","Wrike API","SetupOwnerId","Location","reference",18,true,"[""Organization"",""Profile"",""User""]","SetupOwner",false,true,,"[]",false
+"Wrike_API__c","Wrike API","CreatedDate","Created Date","datetime",0,false,"[]",,false,false,,"[]",false
+"Wrike_API__c","Wrike API","CreatedById","Created By ID","reference",18,false,"[""User""]","CreatedBy",false,false,,"[]",false
+"Wrike_API__c","Wrike API","LastModifiedDate","Last Modified Date","datetime",0,false,"[]",,false,false,,"[]",false
+"Wrike_API__c","Wrike API","LastModifiedById","Last Modified By ID","reference",18,false,"[""User""]","LastModifiedBy",false,false,,"[]",false
+"Wrike_API__c","Wrike API","SystemModstamp","System Modstamp","datetime",0,false,"[]",,false,false,,"[]",false
+"Wrike_API__c","Wrike API","Code__c","Code","string",255,true,"[]",,false,true,,"[]",false
+"Wrike_API__c","Wrike API","RefreshToken__c","Refresh Token","string",255,true,"[]",,false,true,,"[]",false
+"Wrike_API__c","Wrike API","State__c","State","string",255,true,"[]",,false,true,,"[]",false
+"Wrike_API__c","Wrike API","Token__c","Token","string",255,true,"[]",,false,true,,"[]",false
+"sobjectName","sobjectLabel","name","label","type","length","nillable","referenceTo","relationshipName","unique","updateable","inlineHelpText","picklistValues","externalId"
+"Wrike_Bindings__c","Wrike_Bindings","Id","Record ID","id",18,false,"[]",,false,false,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","IsDeleted","Deleted","boolean",0,false,"[]",,false,false,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","Name","Name","string",38,false,"[]",,false,true,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","CurrencyIsoCode","Currency ISO Code","picklist",3,true,"[]",,false,true,,"[""U.S. Dollar""]",false
+"Wrike_Bindings__c","Wrike_Bindings","SetupOwnerId","Location","reference",18,true,"[""Organization"",""Profile"",""User""]","SetupOwner",false,true,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","CreatedDate","Created Date","datetime",0,false,"[]",,false,false,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","CreatedById","Created By ID","reference",18,false,"[""User""]","CreatedBy",false,false,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","LastModifiedDate","Last Modified Date","datetime",0,false,"[]",,false,false,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","LastModifiedById","Last Modified By ID","reference",18,false,"[""User""]","LastModifiedBy",false,false,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","SystemModstamp","System Modstamp","datetime",0,false,"[]",,false,false,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","NameTemplate__c","NameTemplate","string",255,true,"[]",,false,true,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","ParentId__c","ParentId","string",80,true,"[]",,false,true,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","Rule__c","Rule","string",255,true,"[]",,false,true,,"[]",false
+"Wrike_Bindings__c","Wrike_Bindings","Type__c","Type","string",80,true,"[]",,false,true,,"[]",false
+"sobjectName","sobjectLabel","name","label","type","length","nillable","referenceTo","relationshipName","unique","updateable","inlineHelpText","picklistValues","externalId"
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","Id","Change Event ID","id",18,true,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","ReplayId","Replay ID","string",1000,true,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","ChangeEventHeader","Change Event Header","complexvalue",0,false,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","Name","<Entity>","string",80,true,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","CurrencyIsoCode","Currency ISO Code","picklist",3,true,"[]",,false,false,,"[""U.S. Dollar""]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","SetupOwnerId","Location","reference",18,true,"[""Organization"",""Profile"",""User""]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","CreatedDate","Created Date","datetime",0,true,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","CreatedById","Created By ID","reference",18,true,"[""User""]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","LastModifiedDate","Last Modified Date","datetime",0,true,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","LastModifiedById","Last Modified By ID","reference",18,true,"[""User""]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","OwnerId__c","OwnerId","string",80,true,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","SalesforceFolderId__c","SalesforceFolderId","string",255,true,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","WebHookKey__c","WebHookKey","string",80,true,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","WrikeAccountId__c","WrikeAccountId","string",255,true,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","WrikeClientId__c","WrikeClientId","string",255,true,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","WrikeClientSecret__c","WrikeClientSecret","string",255,true,"[]",,false,false,,"[]",false
+"WrikeAccountSettings__ChangeEvent","Change Event: Wrike Account Settings","WrikeServer__c","WrikeServer","url",255,true,"[]",,false,false,,"[]",false
+"sobjectName","sobjectLabel","name","label","type","length","nillable","referenceTo","relationshipName","unique","updateable","inlineHelpText","picklistValues","externalId"
+"Wrike_API__ChangeEvent","Change Event: Wrike API","Id","Change Event ID","id",18,true,"[]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","ReplayId","Replay ID","string",1000,true,"[]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","ChangeEventHeader","Change Event Header","complexvalue",0,false,"[]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","Name","<Entity>","string",80,true,"[]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","CurrencyIsoCode","Currency ISO Code","picklist",3,true,"[]",,false,false,,"[""U.S. Dollar""]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","SetupOwnerId","Location","reference",18,true,"[""Organization"",""Profile"",""User""]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","CreatedDate","Created Date","datetime",0,true,"[]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","CreatedById","Created By ID","reference",18,true,"[""User""]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","LastModifiedDate","Last Modified Date","datetime",0,true,"[]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","LastModifiedById","Last Modified By ID","reference",18,true,"[""User""]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","Code__c","Code","string",255,true,"[]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","RefreshToken__c","Refresh Token","string",255,true,"[]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","State__c","State","string",255,true,"[]",,false,false,,"[]",false
+"Wrike_API__ChangeEvent","Change Event: Wrike API","Token__c","Token","string",255,true,"[]",,false,false,,"[]",false
+"sobjectName","sobjectLabel","name","label","type","length","nillable","referenceTo","relationshipName","unique","updateable","inlineHelpText","picklistValues","externalId"
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","Id","Change Event ID","id",18,true,"[]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","ReplayId","Replay ID","string",1000,true,"[]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","ChangeEventHeader","Change Event Header","complexvalue",0,false,"[]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","Name","<Entity>","string",80,true,"[]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","CurrencyIsoCode","Currency ISO Code","picklist",3,true,"[]",,false,false,,"[""U.S. Dollar""]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","SetupOwnerId","Location","reference",18,true,"[""Organization"",""Profile"",""User""]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","CreatedDate","Created Date","datetime",0,true,"[]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","CreatedById","Created By ID","reference",18,true,"[""User""]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","LastModifiedDate","Last Modified Date","datetime",0,true,"[]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","LastModifiedById","Last Modified By ID","reference",18,true,"[""User""]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","NameTemplate__c","NameTemplate","string",255,true,"[]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","ParentId__c","ParentId","string",80,true,"[]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","Rule__c","Rule","string",255,true,"[]",,false,false,,"[]",false
+"Wrike_Bindings__ChangeEvent","Change Event: Wrike_Bindings","Type__c","Type","string",80,true,"[]",,false,false,,"[]",false
