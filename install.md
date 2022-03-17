@@ -3,6 +3,8 @@
 ## Package
 - [Wrike unmanged package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tj0000001aOGn)
 
+![package install](img/wrike-pkg-install.webm.gif)
+
 
 ## Docs
 - [Wrike for Salesforce](https://help.wrike.com/hc/en-us/articles/360040085934#UUID-7b2e65ee-9ed0-567c-5544-b6a888027550)
