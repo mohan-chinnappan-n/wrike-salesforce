@@ -1,7 +1,7 @@
 # Wrike Install
 
 ## Package
-- [Wrike unmanged package](https://login.salesforce.com/packaging/installPackage.apexp? p0=04tj0000001aOGn)
+- [Wrike unmanged package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tj0000001aOGn)
 
 
 ## Docs
